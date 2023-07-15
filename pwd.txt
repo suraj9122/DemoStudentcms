@@ -1,0 +1,4 @@
+admin: mark@gmail.com pwd: 123456
+	li@gmail.com	123456
+student: jim@gmail.com	123456
+course_manager: js@gmail.com 123456
